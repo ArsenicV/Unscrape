@@ -1,3 +1,3 @@
 # Unscrape
-A web scraper that can scrape any website
+A web scraper that scrapes any website
 
